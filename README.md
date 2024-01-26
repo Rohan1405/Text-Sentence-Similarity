@@ -1,4 +1,5 @@
 # Model Evaluation and TOPSIS Score Analysis
+<image width="600px" src="img.png">
 
 ## 1. Data Collection
 Fetched a subset of data from Hugging Face for model training.
